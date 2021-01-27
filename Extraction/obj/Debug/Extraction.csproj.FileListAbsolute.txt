@@ -1,0 +1,7 @@
+C:\Users\acostal\Documents\Visual Studio 2019\Projects\Extraction\Extraction\bin\Debug\Extraction.exe.config
+C:\Users\acostal\Documents\Visual Studio 2019\Projects\Extraction\Extraction\bin\Debug\Extraction.exe
+C:\Users\acostal\Documents\Visual Studio 2019\Projects\Extraction\Extraction\bin\Debug\Extraction.pdb
+C:\Users\acostal\Documents\Visual Studio 2019\Projects\Extraction\Extraction\obj\Debug\Extraction.csprojAssemblyReference.cache
+C:\Users\acostal\Documents\Visual Studio 2019\Projects\Extraction\Extraction\obj\Debug\Extraction.csproj.CoreCompileInputs.cache
+C:\Users\acostal\Documents\Visual Studio 2019\Projects\Extraction\Extraction\obj\Debug\Extraction.exe
+C:\Users\acostal\Documents\Visual Studio 2019\Projects\Extraction\Extraction\obj\Debug\Extraction.pdb
